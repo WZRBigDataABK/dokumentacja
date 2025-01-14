@@ -4,7 +4,13 @@ a) Nazwa skrócona: Dashboard Inwestora
 
 b) Nazwa pełna: Dashboard Inwestora Giełdy Nasdaq
 
-c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie informacji o interesującej go spółce. Aplikacja daje mozliwość wyszukania dowolnej spółki notowanej na amerykańskiej giełdzie Nasdaq oraz wyświetla najważniejsze z punktu widzenia inwestora informacje takie jak: wykres liniowy cen zamknięcia oraz stóp zwrotu 
+c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie informacji o interesującej go spółce. Aplikacja daje możliwość wyszukania dowolnej spółki notowanej na amerykańskiej giełdzie Nasdaq oraz wyświetla najważniejsze z punktu widzenia inwestora informacje takie jak: statystyki opisowe (wartość minimalna, maksymalna, mediana i średnia) dla cen zamnięcia oraz dopasowane do nich interaktywne wykresy. Poonadto oblicza stopę zwrotu dla cen zamknięcia i również generuje wykres pozwalający na wizualizację zjawiska w horyzoncie ostatnich 100 dni.
+
+2) Prawa autorskie
+   
+a) Autorzy: Hajduk Bartosz, Kucińska Agata, Piekarski Jakub
+
+b) Warunki licencyjne: program może być wykorzystywny w celach niekomercyjnych 
 
 # Wymagania
 |  Funkcjonalność    | Wymagania      | Kategoria         |
@@ -21,12 +27,12 @@ c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie
 |Interaktywność wykresów    | Przydatne       | funkcjonalne      |
 |Wykresy linii trendu    | Wymagane       | funkcjonalne      |
 |GUI    | Wymagane       | funkcjonalne      |
-|System obśługuje jednego użytkownika jednocześnie    | Wymagane       | pozafunkcjonalne      |
-|Obsługa w środowisku windows                         | Wymagane       | pozafunkcjonalne      |
+|System obsługuje jednego użytkownika jednocześnie    | Wymagane       | pozafunkcjonalne      |
+|Obsługa w środowisku Windows                         | Wymagane       | pozafunkcjonalne      |
 |System posługuje się danymi od dnia poprzedniego     | Wymagane       | pozafunkcjonalne      |
 |Prognozy   | opcjonalne       | funkcjonalne      |
-|zapisywanie portfela użytkownika | opcjonalne       | funkcjonalne      |
-|obliczanie ryzyka dla portfela użytkownika | opcjonalne       | funkcjonalne      |
+|Zapisywanie portfela użytkownika | opcjonalne       | funkcjonalne      |
+|Obliczanie ryzyka dla portfela użytkownika | opcjonalne       | funkcjonalne      |
 
 
 
