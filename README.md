@@ -4,14 +4,14 @@ a) Nazwa skrócona: Dashboard Inwestora
 
 b) Nazwa pełna: Dashboard Inwestora Giełdy Nasdaq
 
-c) Opis:
+c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie informacji o interesującej go spółce. Aplikacja daje mozliwość wyszukania dowolnej spółki notowanej na amerykańskiej giełdzie Nasdaq oraz wyświetla najważniejsze z punktu widzenia inwestora informacje takie jak: wykres liniowy cen zamknięcia oraz stóp zwrotu 
 
 # Wymagania
 |  Funkcjonalność    | Wymagania      | Kategoria         |
 |--------------------|----------------|-------------------|
 |Połączenie z API zawierającym dane z NASDAQ    | Wymagane       | funkcjonalne      |
 |Wyszukiwarka firm NASDAQ    | Wymagane       | funkcjonalne      |
-|Statystyki opisowe i pozycyjne (mediana, średnia,      | Wymagane       | funkcjonalne      |
+|Statystyki opisowe i pozycyjne (mediana, średnia)      | Wymagane       | funkcjonalne      |
 |Wykres Boxplot    | Wymagane       | funkcjonalne      |
 |Wykresy Violin    | Przydatne     | funkcjonalne      |
 |Wykres linii dla stopy zwrotu z wolumenu    | Wymagane       | funkcjonalne      |
