@@ -4,13 +4,13 @@ a) Nazwa skrócona: Dashboard Inwestora
 
 b) Nazwa pełna: Dashboard Inwestora Giełdy Nasdaq
 
-c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie informacji o interesującej go spółce. Aplikacja daje możliwość wyszukania dowolnej spółki notowanej na amerykańskiej giełdzie Nasdaq oraz wyświetla najważniejsze z punktu widzenia inwestora informacje takie jak: statystyki opisowe (wartość minimalna, maksymalna, mediana i średnia) dla cen zamnięcia oraz dopasowane do nich interaktywne wykresy. Poonadto oblicza stopę zwrotu dla cen zamknięcia i również generuje wykres pozwalający na wizualizację zjawiska w horyzoncie ostatnich 100 dni.
+c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie informacji o interesującej go spółce. Aplikacja daje możliwość wyszukania dowolnej spółki notowanej na amerykańskiej giełdzie Nasdaq, oraz wyświetla najważniejsze z punktu widzenia inwestora informacje takie jak: statystyki opisowe (wartość minimalna, maksymalna, mediana i średnia) dla cen zamnięcia oraz dopasowane do nich interaktywne wykresy. Poonadto oblicza stopę zwrotu dla cen zamknięcia i również generuje wykres pozwalający na wizualizację zjawiska w horyzoncie ostatnich 100 dni.
 
 2) Prawa autorskie
    
 a) Autorzy: Hajduk Bartosz, Kucińska Agata, Piekarski Jakub
 
-b) Warunki licencyjne: program może być wykorzystywny w celach niekomercyjnych 
+b) Warunki licencyjne: Dane wykorzystane w aplikacji pochodzą z serwisu Aplpha Vintage, który Vantage udziela licencji na instalowanie, użytkowanie, dostęp, wyświetlanie oraz uruchamianie oprogramowania na urządzeniach komputerowych lub mobilnych, które są w posiadaniu lub pod kontrolą użytkownika. Korzystanie z aplikacji jest możliwe jedynie w celach osobistych oraz niekomercyjnych. 
 
 # Wymagania
 |  Funkcjonalność    | Wymagania      | Kategoria         |
