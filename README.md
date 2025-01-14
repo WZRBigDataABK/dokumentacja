@@ -1,3 +1,8 @@
+1. Charakterystyka oprograowania
+a) Nazwa skrócona: Dashboard Inwestora
+b) Nazwa pełna: Dashboard Inwestora Giełdy Nasdaq
+c) Opis:
+
 # Wymagania
 |  Funkcjonalność    | Wymagania      | Kategoria         |
 |--------------------|----------------|-------------------|
