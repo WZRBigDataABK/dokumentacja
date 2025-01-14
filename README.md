@@ -57,3 +57,76 @@ b) Warunki licencyjne: Dane wykorzystane w aplikacji pochodzą z serwisu Aplpha 
 |FD-016|Prognozy   | opcjonalne       | funkcjonalne      |
 |FD-017|zapisywanie portfela użytkownika | opcjonalne       | funkcjonalne      |
 |FD-018|obliczanie ryzyka dla portfela użytkownika | opcjonalne       | funkcjonalne      |
+
+
+# Dokumentacja Architektury Oprogramowania
+
+## Architektura Rozwoju
+
+### Stos Technologiczny
+| Nazwa                          | Przeznaczenie                    | Numer Wersji |
+|--------------------------------|-----------------------------------|--------------|
+| Python                         | Język programowania backendu     | 3.11         |
+| Flask                          | Framework do budowy aplikacji    | 2.3.2        |
+| Alpha Vantage API              | Dostarczanie danych giełdowych   | 1.0.0        |
+| Pandas                         | Przetwarzanie danych             | 2.1.1        |
+| Matplotlib                     | Tworzenie wykresów statycznych   | 3.8.0        |
+| Plotly                         | Tworzenie interaktywnych wykresów| 5.16.0       |
+| HTML/CSS                       | Frontend aplikacji               | -            |
+
+### Narzędzia Programistyczne
+- **Visual Studio Code (1.83.1)**: Edytor kodu źródłowego z wsparciem dla języków i frameworków.
+- **Git (2.42.0)**: System kontroli wersji do zarządzania kodem.
+- **Pip (23.2.1)**: Menedżer pakietów Python do instalowania zależności.
+- **Postman (10.15.0)**: Testowanie żądań API (opcjonalnie).
+- **Google Colab**: Środowisko testowe dla skryptów Python.
+
+---
+
+## Architektura Uruchomieniowa
+
+### Stos Technologiczny
+| Nazwa                          | Przeznaczenie                    | Numer Wersji |
+|--------------------------------|-----------------------------------|--------------|
+| Python                         | Wykonywanie kodu backendu        | 3.11         |
+| Flask                          | Hostowanie aplikacji             | 2.3.2        |
+| Alpha Vantage API              | Pobieranie danych giełdowych     | 1.0.0        |
+| Pandas                         | Operacje na danych               | 2.1.1        |
+| Matplotlib                     | Wyświetlanie wykresów statycznych| 3.8.0        |
+| Plotly                         | Wyświetlanie wykresów interaktywnych| 5.16.0     |
+| HTML/CSS                       | Wyświetlanie frontendu           | -            |
+
+### Narzędzia Wykonywania
+- **Visual Studio Code (1.83.1)**: Wygodne środowisko do obsługi i uruchamiania aplikacji.
+- **Serwer lokalny Flask**: Uruchamianie aplikacji w środowisku lokalnym.
+- **Przeglądarka internetowa**: Wyświetlanie aplikacji (np. Google Chrome, Firefox).
+- **System operacyjny**: Windows/Linux/MacOS kompatybilny z Python 3.11.
+
+---
+
+## Opis Systemu
+
+### Funkcjonalności
+1. Wyszukiwanie danych giełdowych na podstawie symbolu akcji.
+2. Wyświetlanie tabeli z danymi historycznymi akcji (otwarcie, zamknięcie, wolumen).
+3. Generowanie statystyk opisowych (średnia, mediana, odchylenie standardowe, itp.).
+4. Wyświetlanie wykresów:
+   - Statycznych (cena zamknięcia, wolumen).
+   - Interaktywnych (histogram, boxplot, violin plot, stopy zwrotu).
+5. Responsywny interfejs użytkownika zbudowany przy użyciu HTML i CSS.
+
+---
+
+## Wymagania Systemowe
+1. Python 3.11 z zainstalowanymi bibliotekami:
+   - Flask (2.3.2)
+   - Alpha Vantage (1.0.0)
+   - Pandas (2.1.1)
+   - Matplotlib (3.8.0)
+   - Plotly (5.16.0)
+2. Przeglądarka internetowa do uruchomienia interfejsu aplikacji.
+3. Połączenie internetowe do komunikacji z API Alpha Vantage.
+4. Edytor kodu, np. Visual Studio Code (1.83.1).
+
+---
+
