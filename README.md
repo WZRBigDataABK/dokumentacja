@@ -10,7 +10,7 @@ c) Opis: Dashboard inwestora ma za zadanie ułatwić użytkownikowi poszukiwanie
    
 a) Autorzy: Hajduk Bartosz, Kucińska Agata, Piekarski Jakub
 
-b) Warunki licencyjne: Dane wykorzystane w aplikacji pochodzą z serwisu Aplpha Vintage, który Vantage udziela licencji na instalowanie, użytkowanie, dostęp, wyświetlanie oraz uruchamianie oprogramowania na urządzeniach komputerowych lub mobilnych, które są w posiadaniu lub pod kontrolą użytkownika. Korzystanie z aplikacji jest możliwe jedynie w celach osobistych oraz niekomercyjnych. 
+b) Warunki licencyjne: Dane wykorzystane w aplikacji pochodzą z serwisu Aplpha Vantage, któr udziela licencji na instalowanie, użytkowanie, dostęp, wyświetlanie oraz uruchamianie oprogramowania na urządzeniach komputerowych lub mobilnych, które są w posiadaniu lub pod kontrolą użytkownika. Korzystanie z aplikacji jest możliwe jedynie w celach osobistych oraz niekomercyjnych. 
 
 # Wymagania
 |  Funkcjonalność    | Wymagania      | Kategoria         |
